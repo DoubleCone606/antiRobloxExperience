@@ -1,0 +1,10 @@
+{
+  "name": "i stole roblox's exp",
+  "description": "NO MORE EXPERIENCE",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "begone.html",
+    "default_icon": "noexperience.png"
+  }
+}
